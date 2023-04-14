@@ -7,4 +7,5 @@ class Movie {
 }
 
 $starWars = new Movie();
+$starWars ->genere='Azione';
 var_dump($starWars);
